@@ -8,3 +8,4 @@ version = "0.1.0"
 [tasks]
 
 [dependencies]
+typer = ">=0.21.1,<0.22"
